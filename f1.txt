@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
 //task002
 ===========
 
 echo "Learning stash command"
+=======
+task001
+=======
+echo "This is devops course"
+>>>>>>> Stashed changes
