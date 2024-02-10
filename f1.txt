@@ -8,3 +8,4 @@ task001
 =======
 echo "This is devops course"
 >>>>>>> Stashed changes
+thisis test for git pull and fetch
