@@ -1,0 +1,4 @@
+//task002
+===========
+
+echo "Learning stash command"
